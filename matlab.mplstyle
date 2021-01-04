@@ -1,0 +1,23 @@
+lines.linewidth     : 1.0
+axes.grid           : True
+grid.linestyle      : :
+axes.grid.axis      : both
+axes.prop_cycle     : cycler('color', [''0071bc', 'd85218', 'ecb01f', '7d2e8d', '76ab2f', '4cbded', 'a1132e'])
+xtick.top           : True
+xtick.minor.size    : 0
+xtick.direction     : in
+xtick.minor.visible : True
+ytick.right         : True
+ytick.minor.size    : 0
+ytick.direction     : in
+ytick.minor.visible : True
+legend.framealpha   : 1.0
+legend.edgecolor    : black
+legend.fancybox     : False
+figure.figsize      : 3.0, 3.0
+figure.autolayout   : False
+savefig.dpi         : 300
+savefig.format      : pdf
+savefig.bbox        : tight
+savefig.pad_inches  : 0.01
+savefig.transparent : True
