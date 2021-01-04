@@ -2,7 +2,7 @@ lines.linewidth     : 1.0
 axes.grid           : True
 grid.linestyle      : :
 axes.grid.axis      : both
-axes.prop_cycle     : cycler('color', [''0071bc', 'd85218', 'ecb01f', '7d2e8d', '76ab2f', '4cbded', 'a1132e'])
+axes.prop_cycle     : cycler('color', ['0071bc', 'd85218', 'ecb01f', '7d2e8d', '76ab2f', '4cbded', 'a1132e'])
 xtick.top           : True
 xtick.minor.size    : 0
 xtick.direction     : in
