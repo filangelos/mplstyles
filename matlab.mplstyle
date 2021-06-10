@@ -21,3 +21,4 @@ savefig.format      : pdf
 savefig.bbox        : tight
 savefig.pad_inches  : 0.01
 savefig.transparent : True
+pdf.fonttype        : 42
