@@ -19,6 +19,6 @@ figure.autolayout   : False
 savefig.dpi         : 300
 savefig.format      : pdf
 savefig.bbox        : tight
-savefig.pad_inches  : 0.01
+savefig.pad_inches  : 0.02
 savefig.transparent : True
 pdf.fonttype        : 42
